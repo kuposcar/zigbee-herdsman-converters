@@ -1,5 +1,14 @@
 # Changelog
 
+## [21.21.2](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.21.1...v21.21.2) (2025-01-19)
+
+
+### Bug Fixes
+
+* Fix CO2 value interpretation ([#8644](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8644)) ([8a70e68](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8a70e68fdcd3717a0acf66987ada4960fce4cb1f))
+* **ignore:** Refactor Tuya fingerprint ([#8648](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8648)) ([f42aa50](https://github.com/Koenkk/zigbee-herdsman-converters/commit/f42aa5080ee933e8cde9fc08c67a88bf886d71ff))
+* **ignore:** update dependencies ([#8641](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8641)) ([5c0b54b](https://github.com/Koenkk/zigbee-herdsman-converters/commit/5c0b54b0b237c78bdc32f34bb6745a9ca5946c59))
+
 ## [21.21.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.21.0...v21.21.1) (2025-01-19)
 
 
